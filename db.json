@@ -1,0 +1,36 @@
+{
+  "emails": [
+    {
+      "text": "a title",
+      "id": "bf8b"
+    },
+    {
+      "id": "ef3e",
+      "text": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem soluta nemo magnam eos architecto. Officia repellat accusamus aliquid asperiores iste pariatur nesciunt, officiis nostrum eos. Placeat iusto possimus ad saepe. "
+    },
+    {
+      "id": "e546",
+      "text": "asdasdasdasdasdasda sDASDASd"
+    },
+    {
+      "id": "f53b",
+      "text": "asdasdasdas"
+    },
+    {
+      "id": "50af",
+      "text": "<b><i><u>my messag</i>es\n</u></b>"
+    },
+    {
+      "id": "ad70",
+      "text": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem soluta nemo magnam eos architecto. Officia repellat accusamus aliquid asperiores iste pariatur nesciunt, officiis<u> nostrum eos. Placeat iusto possimus </u>ad saepe. "
+    },
+    {
+      "id": "167b",
+      "text": "<i><b>wanna </b><u>die </u></i>"
+    },
+    {
+      "id": "2cc8",
+      "text": "<u>lorem isputm</u>"
+    }
+  ]
+}
